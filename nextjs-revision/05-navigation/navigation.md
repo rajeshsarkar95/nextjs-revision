@@ -24,7 +24,6 @@ export function Controls(){
   );
 }
 ```
-
 - `useRouter()`: imperative navigation, refresh, back, forward, replace.
 - `usePathname()`: current pathname.
 - `useSearchParams()`: read query-string values.
